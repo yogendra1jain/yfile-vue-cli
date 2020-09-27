@@ -19,14 +19,12 @@
 </template>
 
 <script>
-import DiagramComponent from './components/DiagramComponent'
-import DemoSidebar from './components/DemoSidebar'
+
 
 export default {
   name: 'app',
   components: {
-    DemoSidebar,
-    DiagramComponent
+  
   }
 }
 </script>
